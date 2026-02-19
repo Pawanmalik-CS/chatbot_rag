@@ -1,0 +1,24 @@
+.env
+# Environment variables (API keys)
+.env
+
+# Virtual environment
+venv/
+
+# Vector database (auto rebuilds)
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
